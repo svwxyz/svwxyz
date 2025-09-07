@@ -73,4 +73,4 @@ Major in Informatics Practices; Minors in Mathematics & Political Science
 
 ## 🌱 Fun Fact
 
-I enjoy **transforming raw data into actionable insights** and creating **efficient, scalable data architectures** that solve real-world problems.  
+My therapist says I need to relax… so I automate boring tasks in Python instead.
