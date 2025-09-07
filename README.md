@@ -38,7 +38,7 @@ Welcome to my GitHub! I build **scalable data pipelines**, analyze **large datas
 ## 🎓 Education
 
 **BCA (Bachelor of Computer Applications)** – MERI, New Delhi | Expected 2027  
-Relevant Coursework: DBMS, Algorithms, OOP  
+Relevant Coursework: DBMS, Data Structures & Algorithms, OOPs, Software Engineering 
 
 **Hansraj Model School, Punjabi Bagh** | CBSE | 2009 – 2023  
 Major in Informatics Practices; Minors in Mathematics & Political Science  
