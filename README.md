@@ -70,7 +70,3 @@ Major in Informatics Practices; Minors in Mathematics & Political Science
 </p>
 
 ---
-
-## 🌱 Fun Fact
-
-My therapist says I need to relax… so I automate boring tasks in Python instead.
