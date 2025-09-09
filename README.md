@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sumit Vishwakarma
 
-**Aspiring Data Engineer | Python, SQL, PySpark | Azure & Databricks Enthusiast**  
+**Python, SQL, PySpark | Azure & Databricks Enthusiast**  
 
 Welcome to my GitHub! I build **scalable data pipelines**, analyze **large datasets**, and design **efficient data architectures**.  
 
