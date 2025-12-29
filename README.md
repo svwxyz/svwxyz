@@ -55,9 +55,10 @@ Major in Informatics Practices; Minors in Mathematics & Political Science
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svwxyz&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=issues&border_radius=15" alt="Sumit Vishwakarma GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svwxyz&layout=compact&theme=radical&hide_title=true&border_radius=15" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=svwxyz&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=svwxyz&layout=compact&theme=radical" width="45%" />
 </p>
+
 
 ---
 
