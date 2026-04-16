@@ -68,15 +68,19 @@ I build **scalable data pipelines**, design **lakehouse & data warehouse archite
 
 ## 🚀 GitHub Stats
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svwxyz&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svwxyz&layout=compact&theme=radical&hide_border=true" width="39%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=svwxyz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svwxyz&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svwxyz&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=svwxyz&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svwxyz&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svwxyz&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
 ---
