@@ -73,7 +73,7 @@ I build **scalable data pipelines**, design **lakehouse & data warehouse archite
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svwxyz&layout=compact&theme=radical&hide_border=true" width="39%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svwxyz&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svwxyz&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=svwxyz&theme=tokyo-night&hide_border=true" />
