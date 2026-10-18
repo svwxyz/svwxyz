@@ -89,7 +89,7 @@ flowchart LR
     H --> I[Answer]
 ```
 
-📂 [Repository](https://github.com/svwxyz)
+📂 [Repository](https://github.com/svwxyz/dataForgeRAG)
 
 ---
 
@@ -108,7 +108,7 @@ flowchart LR
     D[(Watermark<br/>table)] <--> B
 ```
 
-📂 [Repository](https://github.com/svwxyz/OnPrem2CloudDataPipeline)
+📂 [Repository](https://github.com/svwxyz/onPrem2CloudMigrationPipeline)
 
 ---
 
