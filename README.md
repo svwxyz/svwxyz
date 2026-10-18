@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Sumit Vishwakarma</h1>
+<h1 align="left"> Hi, I'm Sumit Vishwakarma</h1>
 
-<p align="center">
+<p align="left">
   <b>Aspiring AI Data Engineer</b> · Python · SQL · PySpark<br/>
   Azure · Databricks · Microsoft Fabric · RAG · LangChain · LangGraph
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/svwxyz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:svisemployed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open_to-Data_Engineering_roles-2ea44f?style=flat" />
@@ -133,32 +133,6 @@ A hands-on series of end-to-end projects, including:
 | **Fabric Retail Sales Data Warehouse**: star schema (fact and dimension tables) for sales and revenue analytics | Microsoft Fabric | Mar 2026 |
 | **IMDB Data Engineering Pipeline**: ADF ingestion, PySpark transformations in Databricks, Parquet output to Azure Data Lake | ADF, Databricks, ADLS | Sep 2025 |
 | **Instagram User Analytics**: SQL analysis of user behavior with Tableau dashboards | SQL, Tableau | Jan 2025 |
-
----
-
-## 💼 Experience
-
-**Survey Analyst** · Global Matrix Survey *(Apr 2026 – Jul 2026)*
-- Prepared, reviewed and forwarded foreign surveys; reported to senior management
-- Worked with the team to complete surveys, run analysis and deliver client reports on time, using AI-powered tools to improve efficiency and accuracy
-
-**Data Analytics Job Simulation** · Deloitte Australia via Forage *(Jan 2025 – Feb 2025)*
-- Built a **Tableau** dashboard and used **Excel** to classify and analyze data
-- Drew actionable business conclusions from the results
-
----
-
-## 🎓 Education
-
-**BCA (Bachelor of Computer Applications)** · MERI, Janakpuri, New Delhi
-*Aug 2024 – Expected 2027*
-Coursework: DBMS · Algorithms · Object-Oriented Programming
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Place**, La' Kermesse Tech Gig (*Break the Query*), May 2025. Won a college contest on **SQL query optimization**
 
 ---
 
